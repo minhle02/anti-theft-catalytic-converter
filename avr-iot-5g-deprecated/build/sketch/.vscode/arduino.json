@@ -1,0 +1,9 @@
+#line 1 "/Users/francis-hung/Documents/Code/avr-iot/Code/.vscode/arduino.json"
+{
+    "configuration": "chip=avr128db48,clock=24internal,bodvoltage=1v9,bodmode=disabled,eesave=enable,resetpin=reset,millis=tcb2,printf=full,optimization=size,attach=allenabled,mvio=enabled,startuptime=8,wiremode=mands2,appspm=no,WDTtimeout=disabled,WDTwindow=disabled",
+    "board": "DxCore:megaavr:avrdb",
+    "sketch": "Code.ino",
+    "output": "./build",
+    "port": "/dev/tty.usbmodem114402",
+    "programmer": "nedbg"
+}

@@ -1,0 +1,107 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/variants/esp32da"
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Documents/Code/Senior_Design/ESP-32/build/sketch/ESP-32.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src"
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Documents/Code/Senior_Design/ESP-32/build/sketch/ESP-32.ino.cpp",
+    "Include": "twilio.hpp",
+    "Includepath": "/Users/francis-hung/Documents/Arduino/libraries/twilio-esp32-client/src"
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Documents/Code/Senior_Design/ESP-32/build/sketch/ESP-32.ino.cpp",
+    "Include": "WiFiClientSecure.h",
+    "Includepath": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFiClientSecure/src"
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Documents/Code/Senior_Design/ESP-32/build/sketch/ESP-32.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Documents/Arduino/libraries/twilio-esp32-client/src/digicert.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Documents/Arduino/libraries/twilio-esp32-client/src/twilio.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Documents/Arduino/libraries/twilio-esp32-client/src/url_coding.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFiClientSecure/src/WiFiClientSecure.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFiClientSecure/src/esp_crt_bundle.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/Users/francis-hung/Library/Arduino15/packages/esp32/hardware/esp32/2.0.5/libraries/WiFiClientSecure/src/ssl_client.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
